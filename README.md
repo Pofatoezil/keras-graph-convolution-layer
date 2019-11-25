@@ -7,4 +7,6 @@ envirement:
 Pyhton3.7
 tensorflow 1.13.1
 keras 2.3.1  
-![image](gcn.gif)
+![image](gcn.gif)  
+purple & yellow points: training data  
+blue   & green  points: testing  data  
