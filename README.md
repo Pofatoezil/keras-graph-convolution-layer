@@ -6,4 +6,5 @@ So , I rebuilt a simple one to test GCN.
 envirement:
 Pyhton3.7
 tensorflow 1.13.1
-keras 2.3.1
+keras 2.3.1  
+![image](gcn.gif)
